@@ -6,7 +6,7 @@ clc
 % CasADi v3.4.5
 % addpath('C:\Users\mehre\OneDrive\Desktop\CasADi\casadi-windows-matlabR2016a-v3.4.5')
 % CasADi v3.5.5
-addpath('C:\Users\moumo\Desktop\机械臂-实验室 !\22222_Predictive_End-Effector_Control_of_Manipulator\casadi-windows-matlabR2016a-v3.5.5')
+addpath('C:\Users\moumo\Desktop\Model_Predictive_Control\casadi-windows-matlabR2016a-v3.5.5')
 import casadi.*
 
 T = 0.5; %[s]
